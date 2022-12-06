@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 -->
 
 ![mikekim-io's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikekim-io&theme=transparent&show_icons=false)
+*Stats for public-facing repos*
